@@ -1,0 +1,695 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : Main_Window
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x286e82d905b09925
+ internal_properties : CAAAAAgAAAAxcIyV4aygyivd/HtdBdXWw8hC/ep+nbQhaRp7SSlKDYwwETgDyQDmx3+H+9PAf/m8Nw3ltimSkuvG5F9VZT3vhDoutLaMTOoEayjJj0/9C42RoXQt28gLpeZQTxwL6DPNFFdRVOzdcGyu8OriNusfOmhihogFIeCn8nTj/Dc6FvxqPG1JgNkUTBtI/nq0qwQXy2kCMaqzcw7YsUBrx1WIn+YC3BJ6u1H5zvekDNEKr2EF1DfDTR6pG2tgV3e0pDGVJflEK/sBO0c3/OoQk0HicvViOxRS5DEbdb+HSGb77Jdk6k1pxDdm4ImI5NFG+nGbV3paKMlDIBHSoIc31w47Gr182u6+6O+14Shwz4zwZBvy6zE2WY4zMDnUEVSN270cow1HZG+sPbMtZyHkQ8iQHkiWq1bXVF8jIiYqYWDut5HQHJ4l0auPivAvrIH9ZLNe7F48b0XsgOgED1jqEk3eOOES7JBjkBbF1dRavMM6ljEmzdJzBW0lUN4lBFvFou32QbTqZtelIoi1Mez5T/Z1z9s8hRRi61PX5+q0D8dqmmn235R7uyyMjOa2nElUNfV6yKEB5nlyVT8Wk3zZMKW1fAW0HMO/NOU5K8JLRAgRytKGplN3qHwcdcMhMMNV1uBhbyl58ixQJcZr3GUrg9CzynwlFE6pDNFXJZwY+JiLO2IllurqgVxNkRhClZw6CZGgGlWhROCKLaWPMWx3AOSqK7MJb0rI0JqzSfYbRBlWHhNHur8YT6nITa7Nyj4mHN/lCEzb1cenHE7cnZJxVpv1VPnQB3x3vYBscIhiIbx0nlOdoPQ7N7sGu75U6thkuaInJ7ep5SXtfaq20I5bmtGqj1OUJJVvg+zoFypGJ5ecLg/AOE07teLBn6Exyoy4oKyO8D5Z/wAm+vJDGrPN1K6vfE9+OdZ7zmQwPWwigq6TRXeb9nowOxm6z5sVC32KiZoctmCGUjS8haKoNtjY/sNBfIpmMhMeus8P/J2DVzwdww79GmOvYfTy2R8ROZi/CnZlhm0q7il+n3EYfCZPnLZE4//HpWypX/PykP6D1lnOHjM=
+ properties :
+  width : 252
+  height : 456
+  widthClient : 250
+  heightClient : 424
+ controls :
+  -
+    name : Connected_List
+    identifier : 0x286e82d905b59925
+    internal_properties : CAAAAAgAAAD4yv0L48ofS1qHd4/GUQhI80+BIb+eHERn5yIKZmFnFTIcdgFzZJ7dJwmJTKZithOCcAP8y9x3RMSeNXwgHDbbR+ZuKB1zRU9ImpDSE015lyA4aMSx+cTy6QqdQvXxPheV0S45pzfRdR9cso2uviaariLhzEsnmCE+vqAjBQztlUimr0yGl2dIOlLFKBc+rH68IyQ6ypi2tAOQWLjkpVoSRwlxCiV/dP5iG0yQfylOcXIsGRarmABDh5rNGQ6tfvJxccEy8+m1DCFGHdQGCGYNIX+lJEdQTa81MzG09PhoU+Wq+DCJX1nWh7J/Lp9RqXwoKEsToF9EYyfqVrHkX/T0UTx+AWdcmPxOT/RJWvW8Qf/Io0za6A1VB3CuG1T/5lS+y5vItpJVPXyUxdtUubUfOD+njqVzD2e0M0wqB49SQ1WU+LW2cljAX3qrRAahmpJ1BLtBESVhmSDwEPVEq7A4NoSTlHB2llcqixKDEoMyll5HGt4rqHrf2l7J5pEfhKpgloUNfT72jK1ezRd6puTqgnifv9Q7N3h7bizIV8tGnh5rgctGg9jRAnpbgLDFqusMzZMpjcCYTIaEusxMFmX/YH1+7Lj6zl7/smTzWu2GORt/daShIAStfbCJ6cl+9Y2jC4B90JwDxUMNz85hjlselauKvmC95C8zT+sej7XWGBRZoveWVC1lTsigJadASpj26wDgN/0td+SOAVK8goczX529tMemomUyzpqFTtzrAQ/zPl3wk8gURdziiVLw62QwkqP8c/xgOLfkHeXdp92bW5fTlaStRjaWHaRWXqwrW67EHOcTsBORZHUkxO+rC/lHGqUhoFthmgEOFVtOdC/DSRevliy2grpR/+vfkBWlKqXCxOUKBd9cgSbGGKqhFcahDEKd6V0qW3RSoCQ1UlYs8j5Q4EGHg+Y3Tsd6ELzGVFwn/gadbCpldUpngpMOKLLUyjgKy9LRhtz4ks+WEqZxmGRJ4MwWv4s36XE=
+    properties :
+     x : 6
+     y : 6
+     width : 238
+     height : 165
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        internal_properties : CAAAAAgAAACNxJvmJqe6unWgvN5r+bxcQ1ZR1beg5v6ZHe1xzDrmIFz5XCy1kCP1hDMWyH8advscY1it39Oxd60Y73Sc4w+1pL0eUBVdPU1Ogh2pEhREY5YGCOAQ/znK1ELeT6zY5Ob06/15OZHNpnO8Wqygv+6Ozr5rGQFbQNbMWNul1sA6
+        code : |1-
+         nSubscript is int
+         nSubscript = ListSelect(Connected_List)
+         // Check whether a contact was selected
+         IF nSubscript<>-1 THEN
+         	// Find the contact in the address book
+         	HReadSeekFirst(CONTACT,Name,Connected_List[nSubscript])
+         	IF NOT HFound(CONTACT) THEN
+         		Message(<§$0019§>)
+         		RETURN
+         	END
+         	// Send a request for connection to the selected contact
+         	// Note: we use a thread to better manage the display
+         	// The interface must be managed in a single thread
+         	
+         	// Retrieves the IP address if a DNS address was specified
+         	IF CONTACT.DNS_Address <> "" THEN
+         		CONTACT.IP_Address = NetIPAddress(CONTACT.DNS_Address)
+         		HModify(CONTACT)
+         	END
+         	
+         	IF ThreadState("ReqStartMsgThread") = threadUnknown THEN
+         		ThreadExecute("ReqStartMsgThread",threadNormal,SendMessageStartRequest,CONTACT.IP_Address)
+         	END
+         END
+        type : 66051
+  -
+    name : List_Contacts
+    identifier : 0x286e82d905b69925
+    internal_properties : CAAAAAgAAAC4OSy8YsbGaC/1ItkYKJaESp9TTf/g0joiIwV0S3sxBKtOZ3tKm7YRvkgpTdseXhP27FSlYEDvNfxlqrQBTwbKTwuXhGUq/BC7dJfhnCohTmVwYngSojrx12NugrAA1vPoZOahKslfvhTVL/HH39wKfDTdDVVNSpdOCvWO+GfnurCWkzamtqfjmRuad/KeWG7rRmVcsYtEbOtst4DmRzgOwtZagr0j16QBIe/PGaBBuF/Aeq29pGvQdP/aNhcS/kRx6uq01XnReGjg1wuGJiWA8AsxjEGKBmRyPvKlkOt2TS3+IC4+eDhs70F1CBmVqRx4dwkkpdZ523MIIDAab9wX7anGIgbS7eaLhNo8HK/r7sDO29q2G4WJReWS0UM90K5fq243YURbPxC9fyMNiTGQuWYparCXPaHlEBlBCvanAe2fhE1LwC+cGaTY2nhyjljbOQYDSz05ZFuThhyuqrNJQ7rwb1XmnSes1BtEdjDneKxMbsYERzkSQ7wKHX6OWvlpF8Htwd8DAzX150MBSVgtM7hju494RO3RYS2Kguc89puAy8I0akNP/tHWdgWM7CO71nEhMqjmN6d0xBOcZdasY6AZ0CN6FiShAUM1wQn1+MmM1/C249Bak83n/A0wXVZz3wQK/hbp0WxcGTPV9GEIg3hgsVcCsYmiJXTle/HvYRi28mo+or+iU07yB0vXCV6LJ50GK7MHLwu8jPH2jgjRAezxD4xmGD4W28/S3rPweJlQjG/hPKmCH9hEhg2pi5kvu1qien/GnPYSQq9si7kXjaXONC7V7bFJVkYdMMeoET1bo3iA654dYZYv8l7JhJ8DlSlZSz6qj295rFmXs5Giiqc8guGZvT1xzYn56szpV/6WdyHNdH8jqKTAmUpTyTS0+6JHAniRT58eNG3GPv9wNiuee7XfokxUcrMB6AzEv603SFSa8+6Ojw5A2KKMOu4DPyQQ5uUaG/QTitrGF0S6Ki/OKh2wEXbAyfgs3BtSHRPEVAF1hiwr+f9NrVahtSEnPlHjW/M/a7OkYyDj7i+XvseddnsRjsi//RVrHKb28wZl0BKb2mld31k6m2U6l7LXkedg4ze+qoHpOfIrjA==
+    properties :
+     x : 6
+     y : 226
+     width : 238
+     height : 101
+    type : 7
+    code_elements :
+     type_code : 7
+     p_codes :
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+  -
+    name : Static1
+    identifier : 0x286e82d905b79925
+    internal_properties : CAAAAAgAAACPv8PSxClhoxO4AHjcXcnAl4Aaf9cT9l1FGrFI8nBDrBJ03hUYeFOgPvWO3HPwybb40nCMQVm8SyY5KLFZrVoADXIr4pblOYHXLfNUluILdK+EYc0cwvhlHN9rgSuZ//RWWTJ3NVY11OtEmssiQr+sQKuZoGviu3PAVa6hxlwA80VBL4SFan2gTtPoOq0mDanM+WUmMYx+oB495f9pKhHZhaVL6UEOR+7ilc6gFXi0B6sxXCHF5iRxYOfVINmp/SUusxe2rtOeQTqyHFHoZUm2bQuaCTU6sAAIALIu62c30TbHRj4SUwJzOwZySXyDP6pJ4ShHlv3mdR8b1rf7MaIvg2wZJSNYBmvq10vH2nnGxKGOs6J2cakCLb6sTWx/I6cyX1gBit+C/Z9iAsV2cAbZ3h8SN1rEyNBxSojGGcEn/0MtKZl+zmdOK7/a1PnhNBVn8btaYR5Vs/8R1PsT5huOONxvuNcanED6P0WD5mV/z7SGHUUuX4cM901+CXSsyRKtXT0dt63lL5+bqhUtAmQOQ6jg6b0ncnZXernhbn0adPQfcMCr6lyKhMIKDf47ZKvuj+TZe8iLxK++VY1fniQCfEn495bLribkuhsgKI1lSVyA2h46RkalBq/a8T/fRZSJ
+    properties :
+     x : 6
+     y : 177
+     width : 238
+     height : 54
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : Static2
+    identifier : 0x286e82d905b89925
+    internal_properties : CAAAAAgAAADKCRDREIa4PaCnd9nezXXu85xpH1OksDmt0AbMd5Z8fwsHVva4Z2L0ndrSMMKnWx4zFQBY1TkFZ7z1weK5MPfsShlV/TiPX2HQaeepca9iHo8FsVIz7uGOTg7NXfjyYi48jdWorICdLmuMDozXxSpJl+r6h9GTzf/laZfhYjI3SC3zCD89QEOIGuJH46uCIJJmLmWFL3tTn03cNznXpN/7JNzPb5tLmm597zNgyCDd6OPBughvjTS2B8pZqU/QgIz618o+YWVJJ1kjt3idBU8vb6J8c9D7r/QuIA4At51iekjndEygnPpJP7jn5wOHvkKKSnTYjrtPQ9yuf9Q7DRbXlRKNaFSJWMVliB7G1S0Taq+B+E8TF9U27EoIHDDG6azxjPEGUqrIQMtwKrp6II80PwYh7sk9r4VWlNymadYa3RiLRcCU/4EmAL95yNe5GZClwAqGPp37Lx/W9YgbFbVjbxoYCLddf2R+2p9pojAFSJdUODsdqyMSy9YHehnamlZWzT+P7JbLnyclR+kpaMa2sadxwFCAyjD9DuiBzg6u5V2w+Zev4/Vuc97HRgaSbOBKvPLqKXKprGZklp3mSGuwHnYQs4VQFpvsMODFrKuIo1EoM9qLGP4QlndkNDxbybHSPV+Vd0F3wOVbtYS8lVeR6y/dZ1E/fqAqIIORcoD9DHYUQziFk+FP5Qf3LXLKKT6VSpOMm1+9QA==
+    properties :
+     x : 6
+     y : 333
+     width : 235
+     height : 65
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+  -
+    name : Splitter1
+    identifier : 0x286e82d905b99925
+    internal_properties : CAAAAAgAAADE/amsRUJDpDVwsDmx+XtmOlTdjHh7f228bJnJZIH7p2KlARpzTqPXQOATvWgcgTmCTyJVJMK18UtQUr9TEii/s4ZU22iibG2GZmoI1damab2i4v7P76VcOqw4jTy1Er7YojEq7ilPSlQwFfb+EBjKbMNNsFN7mDbzAT2cWnlUMsU3M1sk6mVFoSTnMLmWZNGLBSfxrcwlJZrla3Z1sj3ZN/l/ffXQAIhFuZkPRLOVeFAlsOVA1hUX5wAplPRT13ranlWca6ot4qrffOMoEZr+XUs+QfwxEKf8lDR5WglAr9v/jWj+YPni/5/YekfCGwF1JwkJ2qQmdW1vnjdqe5zxIqRtyPcE/KGNBznqB3RsbNLhOf5OH9PVsgYZdg2oVhHaYDQYLGc49bG+7mVFoUaoaj5gz1zD6R33PtbNsp6ytnjvV8LxmWWjxEXJcl1YH+++TN8wZ7ZCGqtESOs34n+X6SnlV/p4n4CyCN/MRt6P6XEFXXtlNHhlBxXgq14BrY8TWTuP6Jvf9avvHcPO1ctxefCMAvAXGdNcx0M=
+    properties :
+     x : 6
+     y : 172
+     width : 238
+     height : 5
+    type : 28
+    code_elements :
+     type_code : 61
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x28c4eb823662c31b
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ popup_menus :
+  -
+    name : PopupMenu1
+    identifier : 0x286e82d905bb9925
+    internal_properties : CAAAAAgAAACXFZHZ7EmbF/EU+ELf9M+8O/0OZz0E10eRYulPiJHliSq6tPFprltM4ZtZm7dJFx1H/ujQT/Ss6gnu4bfj9XaNLNMm5pu5iooUKYP9+ASYkMBcootEbHOs4kj8OBCDLAp91yevnD5z4RvOxRmHMdLE61haW75O2ODpTMxCunhvJHPtlnrCmJjg/vFJXeSH6FqTjlJaTzGf/HPtwLIR/btVYL+65SFo46my//3+ozH9jBSLiINW+sS11TzWN+CRCGFj0A+hvEJrTsR6tkM6SMEWscRZUjejU8JaHpKRbetON2QG59YSc3ZDNXehP0OoHPnv0VzB/RjWBh6H68neOOvJsvwhyvG55Wh+22uNEHX7qXvDoULpVOZd3+DnFH4muHs=
+    options :
+     -
+       name : Option1
+       identifier : 0x286e82d905bc9925
+       internal_properties : CAAAAAgAAAARrO6/oVcwgMX/NIyzdkEeVwMLDjTwXZV/QlcHiRf7uRJWdpafHzEAnj333to8y1+G8NfPNgxR5X/dxh16o19i3ADGfTxLX/OeewgOxPN3nfWJ0UWJqyccI7pMOyJm+mZfpTfKgksWYAL+GWr4nEkiz4PqE4RuGbk9EEeUpDPubPEsJKY484W+ew1c6cD+Eq9g7QdCGS2he1FHAZHlJCwbGzhFgVbWPRsAJlxxdcQHn9V0SrtVOTxXhrrGOF2GV664QONTH/4TcbWFfL/P7WTiBCXXUa23xvhJKABIZqzvfNa+L3GuueQbMtryfehTpFygztZegVBuZ4oyBWJjgTmEQivO54gGiaCOzRK6DdEwKMA/6XeTgXgDPFUTzKwC7uLNG18NsvC8pi+r8OMInaxnmE38yw==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1+
+            
+            // Open the form in creation
+            IF Open(WIN_Form) THEN
+            	
+            	// Checks whether the user is connected
+            	ConnectedTimerList()
+            
+            	// Refresh the display of contacts
+            	ListDisplay(List_Contacts)
+            END
+           type : 32
+     -
+       name : Delete1
+       identifier : 0x286e82d905bd9925
+       internal_properties : CAAAAAgAAADZv675UzdHYdVoA2n5haMC1NkLOpsiXI8HSuHgX+W+ChdD6TqdsNWEXchjzNHhy6rsBrooU98XkfiAtzgvm32AOfxQjGGh5bycE6wPJGDigMJ8bsN1q6kTAYzjm32iH+bwtZ4IJW782r3j9YR7wklSfrycxtFmKp2wgXoVMt8jgHtSQ73WvooqUDbWHcgoRC/4/cyMW9K0f9tGGlOfJotpj+YQbjah6iK08cgJMYni6I0B3YWgT+FUiMr7hJpjS8xscN1xAOBLIWCFaZs4BtkVSmFNR5AiPFZsOy1M29m02U9WJWs6yVatP1ofPSSU9urAFFliJ+FvXWETdAQcAnf2Bubz4GfWjOLp9ZnZERWLgeZxBEPe/8zbRlX0MK9vm2hbDVyLbkscDFDIOngyZQ==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            nIdContact is int
+            
+            // Retrieve the contact identifier
+            IF ListSelect(List_Contacts)<>-1 THEN
+            	nIdContact = List_Contacts
+            ELSE
+            	RETURN
+            END
+            
+            // Load the form
+            HReadSeekFirst(CONTACT,CONTACTID,nIdContact)
+            IF HFound(CONTACT) THEN
+            	// Delete
+            	HDelete(CONTACT)
+            	IF ErrorOccurred THEN
+            		Error(<§$001b§>, HErrorInfo())
+            		RETURN
+            	END
+            END
+            
+            // Refresh the display of contacts
+            ListDisplay(List_Contacts,taInit)
+           type : 32
+     -
+       name : Modify
+       identifier : 0x286e82d905be9925
+       internal_properties : CAAAAAgAAABdM+x1t8drNVXcKxyFLMWcRqNtmN2MNh2BpGvaXZcAJBkWZdan7noqpyIdJuZrzaS28TIWqruSb+GxV3izP1No8YquQ0jcqumKZBzCng2LeLWLB0HkWuQ/a+/KXI0P1ytIAGMV4Q15FycBLylLq/Jy4MQXmzQhH7n9UJZpngv0W4RX48SE/KLjH5gbOoyL0H3F3MjzsOTmU23kyNTS/x+M8WBMks+NywFk3b9nLnP0vuTw+/kWx8LtYRskQ0yga2iEzLkFzawnS+zI9I4TqPUoYX1L9VgXgHCegY7daMREx0/F8LnoHC/rnRmj4wyQBoyKtofIFKcFsNaJAMBdt5ob386rlDOGUClEZApo2THTyar9iDPu67zDYiHYCINnxxRwIroZUI0GVrqS/PS24Q==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            
+            IF ListCount(List_Contacts) > 0 THEN
+            	
+            	// Open the contact form in modification
+            	IF Open(WIN_Form,List_Contacts) THEN
+            		
+            		// Checks whether the user is connected
+            		ConnectedTimerList()
+            		
+            		// Refresh the display of contacts
+            		ListDisplay(List_Contacts)
+            	END
+            	
+            END
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - en-GB
+ message_bar :
+  internal_properties : CAAAAAgAAABz9hk3SfnP4D5IkAla2+A95j18we7/YVkxmCzBqkktoGetwYw2aLSEcXFqYgDRS3k2Ax0n2dnFDfGHwVQsgcRpm49fTQCPc/RXn6eRQ52HDAU2QVEFy2zTx7UOt5LFYPM=
+  controls :
+   -
+     name : Cell1
+     identifier : 0x286e82d905ba9925
+     internal_properties : CAAAAAgAAAABFjiZjfgOOntU2WRYxuIe8yGmzkpiPbejFxdtBaKADcxaGbD9kuW8NGzPIo+zLqVpuVmO9OEYjH1pH02o+o871FqoA0q455jMyhC3pBHROzn9omFJfNCLp8hA
+     type : 62
+     code_elements :
+      type_code : 62
+      p_codes :
+       -
+         type : 15
+         enabled : false
+       -
+         type : 16
+         enabled : false
+       -
+         type : 39
+         enabled : false
+       -
+         type : 17
+         enabled : false
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAD6/c0tBl5Fzb2NpSCbxdnsVST5pc+rMXi+MT1lx+K4u+jvGiXm+lK52DkW3oh7HEervP0I3alSdNmFS6fAcz+9uCaFfg==
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAACzharRpZtXdg9Mn1oET7DJg50MXChNoxuPcvOgCFXPDxFcLrhzEFEN2IND1Agm3X7XejoQIBQy5D49qN1QYC4EzbHUG1VcaDgEbsJ8hgLI2uupmLMKG1Zn4KjNJEexBzR19cexsnRu+vzeD1Q=
+     code : |1+
+      GLOBAL 
+      	gnIdTimer is int				// Identifier of the timer for refreshing the connected users
+      	gnEventID is int			// Identifier of the event used to call the chat windows
+   -
+     internal_properties : CAAAAAgAAADol5RywxWuaNN+k7ZCZyTfi5j5JVxFvKbhm88znacG1z/Y/PmdJeeP3ipL8TXCtxTH+Ff365ExqEsE5uFLVI+HjNdOW65iL0RBfbZ0QYTlqRJJWBE54WGvQ5Hj4ogzKh1G7a+jqkECC1ixWQ==
+     code : |1-
+      // Timer for refreshing the connected users 
+      // Note: we use a thread to avoid freezing the move of the main window
+      // Note 2: a fist call is made immediately
+      ConnectedTimerList()
+      gnIdTimer = TimerSys(ConnectedTimerList,6000)
+      
+      // Listen to the requests for connection and for presence tests
+      ThreadExecute(<§$0004§>,threadNormal,ListenPresenceRequest)
+      ThreadExecute(<§$0006§>,threadNormal,ListenConnectionRequest)
+      
+      // Add an icon beside the clock
+      SysIconAdd(<§$0008§>, "", ProjectInfo(piProjectName), ManageSystrayIcon)
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     internal_properties : CAAAAAgAAABpS3y353xlBpEaVxiEDw5fGWvu3BZ3BzOhmJOeGLXpMSv+oACNKj0RUpmPhhQq45yp3FgEJgp1qXHgy/yxj3vXvra32qrHVzkbdeUTH2ldpaT+Z24D2okIy8uYMzDYWENC3kLI5yWQLCK0VQ4=
+     code : |1+
+      // end of timer for refreshing the connected users
+      EndTimerSys(gnIdTimer)
+      
+      // Stop the threads
+      ThreadStop(<§$0006§>,500)
+      ThreadStop(<§$0004§>,500)
+     type : 2
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+      IF WinSize(WIN_Main) = MinSize THEN
+      	WIN_Main..Visible = False
+      END
+     type : 13
+  procedures :
+   -
+     name : FillConnectionList
+     internal_properties : CAAAAAgAAABktH7dQDI0omaRCqDEvKvT4cb7ZVs+UxSqQ8NzE2OLmaQXQhJi1/D5dBwWJ9A1V1zrm8hqU5dU5tcXlOA/nQZBf5uToJyq1+ROHiGTUSe8sxkkUBOM+udCok297Bkm4m9JiBuUwS6CwlaPCFd07XDhlFbZfKlSSFMAiyNSlqGZQiAHNnmBeeE8r35ISQnb1FqV1Ggd
+     procedure_id : 1760488372883200293
+     type_code : 14
+     code : |1+
+      PROCEDURE FillConnectionList()
+      
+      sConnAddr is string
+      
+      // Browse all the contacts
+      HReadFirst(CONTACT,CONTACTID)
+      WHILE NOT HOut(CONTACT)	
+      	// Retrieve the address of the user
+      	IF CONTACT.IP_Address~="" THEN sConnAddr = CONTACT.DNS_Address
+      	IF CONTACT.DNS_Address~="" THEN sConnAddr = CONTACT.IP_Address
+      
+      	// Attempt to ping the computer
+      	IF Ping(sConnAddr) = True THEN
+      
+      		// Check whether the contact is present
+      		Message(<§$000a§>+CONTACT.Name)		
+      		IF SocketConnect(<§$000b§>,cnPresenceSocketPort,NoSpace(sConnAddr)) THEN			
+      			// The contact is connected
+      			IF ListSeek(Connected_List,CONTACT.Name)=-1 THEN
+      				// Add the contact to the list of connected users if he is not the local user
+      				IF CONTACT.IP_Address<>NetIPAddress() THEN
+      					ListAdd(Connected_List,CONTACT.Name)
+      				END
+      			END
+      			// Close the presence socket
+      			SocketClose(<§$000b§>)
+      		ELSE				
+      			// The contact is not connected
+      			IF ListSeek(Connected_List,CONTACT.Name)<>-1 THEN
+      				// Delete the contact from the list of connected users
+      				ListDelete(Connected_List,ListSeek(Connected_List,CONTACT.Name))
+      			END
+      		END
+      	END
+      
+      	// Continue to browse the contacts
+      	HReadNext(CONTACT,CONTACTID)
+      END
+      
+      // Delete the message
+      Message("")
+      
+     type : 458752
+   -
+     name : SendMessageStartRequest
+     internal_properties : CAAAAAgAAADvjZ0GtnILUusbPnb+QuHBUPm/Yo3cPeZt6duByuAYmARFFUfQAfaZd9bZfhZ6ACFMSAz9y4AYN5pOkCxbWfhTgsERXFWnq485iI+cNnaDsHWl8sK5+Sug++99nTQn65J3m8/zclmanDPHOLSX5nVICvvBMc4BaLVNG7cRB2Rgd6xCJOzgjv8QjFCanKnfgpp6/g==
+     procedure_id : 1760488372883265829
+     type_code : 14
+     code : |1+
+      PROCEDURE SendMessageStartRequest(sIP)
+      
+      // Create a socket name for this connection
+      sSocketName is string = Today()+Now()
+      
+      // Attempt to connect
+      Message(StringBuild(<§$001c§>, sIP))
+      SocketConnect(sSocketName,cnRequestSocketPort,sIP)
+      IF ErrorOccurred THEN
+      	// Connection error	
+      	Error(<§$000d§>,ErrorInfo());Message()
+      	RESULT False
+      ELSE
+      	// Connection established, waiting for ACK
+      	Message(<§$000e§>)
+      	SWITCH SocketRead(sSocketName,False,2000)
+      		
+      		CASE csACKOK :
+      			// Connection accepted 
+      			Message(<§$000f§>)
+      		
+      			// Find the contact in the address book
+      			HReadSeekFirst(CONTACT,IP_Address,sIP) 
+      			IF HFound(CONTACT) THEN
+      				// Ask to open the "chat" window with the specified contact			
+      				Message()
+      				ExecuteMainThread(WIN_Main.OpenChat, sSocketName,CONTACT.CONTACTID)				
+      				RESULT True
+      			ELSE
+      				// The contact is not found in the database
+      				Message();Error(<§$0010§>)
+      				RESULT False
+      			END
+      
+      		CASE csNOTAVAIL :
+      			// Contact not available
+      			Info(<§$0011§>)
+      			Message()
+      			RESULT False
+      				
+      		OTHER CASE :
+      			// No response from the application of the contact
+      			Info(<§$0012§>+sIP,ErrorInfo())	
+      			Message()
+      			RESULT False		
+      	END	
+      END
+     type : 458752
+   -
+     name : ListenMessageStartRequest
+     internal_properties : CAAAAAgAAABi4721A95Cveb259CvhYumqEX6NXrX2fC1/3r0WDXAj96nrVE3w5noaaoDwZgsvrk0f+GAysyHetW1OlQB2Hd6H+WdIpJANcStvpwfBfidMjmGBaxvQhUGBJZDVEXwfbT5ptTHzJmWvRruRl25
+     procedure_id : 1760488372883331365
+     type_code : 14
+     code : |1+
+      PROCEDURE ListenMessageStartRequest(sChannelName)
+      
+      sClientInfo is string
+      
+      // Check whether another user is connected
+      sClientInfo = SocketClientInfo(sChannelName,SocketAddress)
+      
+      // Analyze the result
+      IF NoSpace(sClientInfo)<>"" THEN
+      	// Find the contact in the address book
+      	HReadSeekFirst(CONTACT,IP_Address,sClientInfo)
+      	IF NOT HFound(CONTACT) THEN
+      		// This contact is not recognized
+      		Message(StringBuild("Request from an unrecognized user: %1", sClientInfo))
+      		RETURN
+      	END
+      
+      	// Send the settlement	
+      	SocketWrite(NoSpace(sChannelName),csACKOK)
+      	IF ErrorOccurred THEN
+      		// Error while sending the acknowledgement
+      		Error(<§$0014§>,ErrorInfo())		
+      		SocketClose(sChannelName)
+      	ELSE
+      		// Ask to open the "chat" window		
+      		ExecuteMainThread(WIN_Main.OpenChat, sChannelName, CONTACT.CONTACTID)
+      	END
+      ELSE
+      	Error(<§$0015§>,ErrorInfo())	
+      END
+      
+     type : 458752
+   -
+     name : ListenConnectionRequest
+     internal_properties : CAAAAAgAAACryVnEYg7nMpMf7k5iDpXFcJWvitFwEbZlPRtpjnzEtAwxpXc89YJx/xohzvKOTM0sZGRd14TcN5JSuOSHLQzHIuW5LCnDv/cxBtmKwMwtToc7fEgrh90W7RXfOxZ1Hehh0dEBbK8Eev0FUoopRJ8OREGbR6B/ervneRH3wboKpX6gRtoK5Alevga8siOlRt4+Og==
+     procedure_id : 1760488372883396901
+     type_code : 14
+     code : |1+
+      PROCEDURE ListenConnectionRequest()
+      
+      sChannelName is string 			// Name of the channel to associate with the socket
+      
+      // Permanently wait for the messages with locking listening
+      WHILE SocketWaitForConnection(csRequestedSocketName)
+      	// Accept the connection
+      	sChannelName = SocketAccept(csRequestedSocketName)
+      
+      	// Check the connection
+      	IF sChannelName~="" THEN
+      		// Connection error
+      		Error(<§$0016§>,ErrorInfo())
+      	ELSE
+      		// Play the request
+      		ListenMessageStartRequest(sChannelName) 
+      	END
+      END
+      
+      
+      
+     type : 458752
+   -
+     name : ListenPresenceRequest
+     procedure_id : 1760488372883462437
+     type_code : 14
+     code : |1-
+      PROCEDURE ListenPresenceRequest()
+      
+      // Permanently wait for the messages with locking listening (no response to do)
+      sChannelName is string
+      
+      WHILE SocketWaitForConnection(csPresenceSocketName)	
+      	sChannelName= SocketAccept(csPresenceSocketName)
+      	
+      	// No action
+      	Multitask(-50)
+      	SocketClose(sChannelName)
+      END
+     type : 458752
+   -
+     name : ConnectedTimerList
+     internal_properties : CAAAAAgAAADIEMLBWkYcxgrFvnR0UIuLneobgddC25Auf9ePs49z+cjL4t6u43h1KBja+3hZL4QPP9C+P0NkWuOzwOQvaebh65ezlGAmRwiSChPl57kuEf9aWi1aBOG0IP/vhrfwjPXPJgW+r4jcpOTxMgEyJxInQnyDzkf86v0eTX3cHDMLwLalYEO3kwvmBegC69el3maBOMSx
+     procedure_id : 1760488372883527973
+     type_code : 14
+     code : |1-
+      PROCEDURE ConnectedTimerList()
+      
+      sThreadName is string = <§$0017§>+Now()
+      
+      // Fill the list of connected users
+      ThreadExecute(sThreadName,threadNormal,FillConnectionList)
+      
+      // This thread does not have priority
+      ThreadPriority(sThreadName,PriorityLow)
+     type : 458752
+   -
+     name : OpenChat
+     internal_properties : CAAAAAgAAAArSdlEog5nspMf7k7ijpXFcJWvClHwEbblvZvpjnxENIyxJXc89QLx/xohznIOTM0sZGTdVwTcNxLSOGSHLYxHomU5LCnDP3cxxhlKAIxtDsf7vAhrRx3WLdUf+1Y1XaihkRHBrG9EOj3FkkppBN/OhAHbB+A/unsnOVG3AXpKZb5ghppKpEke/sb8cmMlxl6+ug==
+     procedure_id : 1760488372883593509
+     type_code : 14
+     code : |1+
+      PROCEDURE OpenChat(sSocketName is string, nIDContact is int)
+      
+      // nParam: address of the string containing the name of the communication socket
+      
+      // Open the window used to communicate with the contact
+      OpenSister(WIN_Message,nIDContact,sSocketName)
+      WinStatus(WIN_Message,Active)
+      WinStatus(WIN_Message,Above)
+     type : 458752
+   -
+     name : ManageSystrayIcon
+     procedure_id : 1760488372883659045
+     type_code : 14
+     code : |1+
+      PROCEDURE ManageSystrayIcon(MouseMessage)
+      
+      // Left double click?
+      IF MouseMessage = 0x0203 THEN    // 0x0203 = WM_LBUTTONDBLCLK
+      	SWITCH WinStatus(WIN_Main)
+      		CASE Invisible :
+      			WIN_Main..Visible = False
+      			Restore()
+      		CASE Active :
+      			WIN_Main..Visible = True
+      			Iconize()
+      		OTHER CASE
+      			WIN_Main..Visible = False
+      			Restore()
+      	END	
+      END
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Fenêtre_Principale
+resources :
+ string_res :
+  identifier : 0x3c0247be70fe97fa
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : ConnectedTimerList
+     index : 0
+   -
+     text :
+      en-GB : OpenChat
+     index : 1
+   -
+     text :
+      en-GB : StartChat
+     index : 2
+   -
+     text :
+      en-GB : Unable to manage the window for chat opening
+     index : 3
+   -
+     text :
+      en-GB : ThreadPresence
+     index : 4
+   -
+     text :
+      en-GB : ListenPresenceRequest
+     index : 5
+   -
+     text :
+      en-GB : RequestThread
+     index : 6
+   -
+     text :
+      en-GB : ListenConnectionRequest
+     index : 7
+   -
+     text :
+      en-GB : group.ico
+     index : 8
+   -
+     text :
+      en-GB : ManageSystrayIcon
+     index : 9
+   -
+     text :
+      en-GB : "Attempt to connect to: "
+     index : 10
+   -
+     text :
+      en-GB : TEST_PRESENCE
+     index : 11
+   -
+     text :
+      en-GB : "Connection to the IP address: "
+     index : 12
+   -
+     text :
+      en-GB : Unable to reach the contact
+     index : 13
+   -
+     text :
+      en-GB : "Connection established, waiting for message"
+     index : 14
+   -
+     text :
+      en-GB : Contact Search
+     index : 15
+   -
+     text :
+      en-GB : Unable to find the contact in the database
+     index : 16
+   -
+     text :
+      en-GB : The contact is not currently available
+     index : 17
+   -
+     text :
+      en-GB : "The contact did not respond within the timeout, the connection will be abandoned in: "
+     index : 18
+   -
+     text :
+      en-GB : "Request from an unknown user: "
+     index : 19
+   -
+     text :
+      en-GB : Unable to respond to a request made by a contact
+     index : 20
+   -
+     text :
+      en-GB : Unable to define the IP address of the contact
+     index : 21
+   -
+     text :
+      en-GB : Unable to accept the connection
+     index : 22
+   -
+     text :
+      en-GB : Task
+     index : 23
+   -
+     text :
+      en-GB : FillConnectionList
+     index : 24
+   -
+     text :
+      en-GB : Contact not found in database
+     index : 25
+   -
+     text :
+      en-GB : ReqStartMsgThread
+     index : 26
+   -
+     text :
+      en-GB : Unable to delete the contact
+     index : 27
+   -
+     text :
+      en-GB : "Connection to the IP address: %1 "
+     index : 28
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

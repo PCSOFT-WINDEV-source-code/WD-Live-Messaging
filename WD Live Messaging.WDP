@@ -1,0 +1,163 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Live Messaging
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Live Messaging project
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Live Messaging
+    internal_properties : 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
+    configuration_id : 4639423491016613976
+    type : 1
+    generation_name : WD Live Messaging.exe
+    version :
+     major_version : 22
+     minor_version : 37
+     internal_generation_version : 1
+     autoincrement_version : false
+    icon_filename : .\GROUP.ICO
+    language : 2
+    telemetry :
+     status : disabled
+ elements :
+  identifier : 0x4ac482f9000f3180
+  elements :
+   -
+     name : WIN_Message
+     identifier : 0x3db5104e0c905ede
+     internal_properties : CAAAAAgAAAC1kZ2BPhsTzJtaEGhwEAntq4R29nH7lib+kFX7FzXZb0W7RE+fbfT15F5YoGCQaFigoA==
+     physical_name : .\WIN_Message.wdw
+     type : 2
+   -
+     name : Global procedures of WD Live Messaging
+     identifier : 0x41b600830002d8c3
+     internal_properties : CAAAAAgAAABEwqyIN2xEZ3ADicWd/rj0rhOtffhZ4n+GfPBq1We1U6ENGOvy0l9eHQfxz1eJcWdR0Q==
+     physical_name : .\Global procedures of WD Live Messaging.wdg
+     type : 7
+   -
+     name : WIN_Form
+     identifier : 0x3db5104a690d5ea2
+     internal_properties : CAAAAAgAAABPy6f7SHU9bnkMjvri9K/fvcqAIE/51gHETCIj41k98wUfBP/t32JjFgD6xk6CfnJa2g==
+     physical_name : .\WIN_Form.wdw
+     type : 2
+   -
+     name : WIN_Main
+     identifier : 0x3db5104d39125ed4
+     internal_properties : CAAAAAgAAACc+vQgn8Rsf8iLAX1laCzQHr/lPSwmNov6DErF02kr1W+H/oVqWufmlY8J978xyT+JiQ==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+   -
+     name : SET_HFSQLTEST
+     identifier : 0x425d042301471bcf
+     internal_properties : CAAAAAgAAAD0UtzY51zU1+BzOZXNAZRIhjlltWQDHnJwCNUvLPamUu4MdR7CAo8OzXdhXyfZoRfhYQ==
+     physical_name : .\SET_HFSQLTEST.wdg
+     type : 7
+   -
+     name : TEST_SET_HFSQLTEST
+     identifier : 0x425d043801496dc7
+     internal_properties : CAAAAAgAAAAacMLG5aIKFdKhk+P7yE7+pNGDK5w7zJBwCHZWOclD9QsnIuEM+Hl4e6UfmRnXoxX/Bw==
+     physical_name : .\TEST_SET_HFSQLTEST.wxt
+     type : 17
+  other_elements : []
+  analysis : .\WD Live Messaging.ana\WD Live Messaging.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : ".\\WD Live Messaging.sty\r\n.\\WD8 Instant Messaging.sty"
+ code_elements :
+  internal_properties : CAAAAAgAAACN9XLZoT95BJ1NFlxmNivWpbNL4ZcFe5Bhrjl+xXu70NuuXM7ULoG3rbdOVSmjWmcsZRAS78jqIiBjFWOzGBX+Mu2o840STyKxZFMtMFSJOmJPMZ/A680Ur54mes88eU3f/+bCF9WoapFvjybS9XkRcJJaap59j/07TW3rvmcMRva66+fmZKxEyy/OcBkPNNnQHRFuhin8hysqhCMZgr3JSsfGbjcvKE+jPILPkFXqDHOHYvjyrT1PxcRlyt75
+  type_code : 0
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABIsWoevybWjisZnZVvSMsDOLo3TjvnV/UNDC/7t3iPpUM0afD7+dZiWQ5FaYVU2h5uzJI+hbJJDolvDsf2BE4RaMyvdspgHFQQivvtWrEv1Lb0DhuIjS06IaZy4N/+CZ2VyN09jQ2bGwMzT9sO4sqKoZNdJ/bKz3XwbZm/V0CMNNRswgMps6Wo7twevj1GgWlu5wOauHWYf6+FCmB6HjpDzYAHisnoshX8U+R3P8yF5l1i+9vOvpgEngcIMSMWkpyN3akTDD66NTEWAt7Mn4VaBbvFrQ/lYaA=
+     code : |1+
+      GLOBAL	
+      	CONSTANT
+      		// Name of the sockets used
+      		csPresenceSocketName = "PresenceSocket"			// Socket used to detect the presence of a user
+      		csRequestedSocketName = "RequestSocket"			// Socket used to perform the requests of presence
+      		
+      		// Numbers of the ports associated with the sockets
+      		cnPresenceSocketPort = 5010					// Port associated with csNamePresenceSocket
+      		cnRequestSocketPort = 5011					// Port associated with csNameRequestSocket
+      		
+      		// Protocol message
+      		csACKOK = "OK"								// Confirmation message
+      		csNOTAVAIL = "NOT_AVAIL"						// User not available
+      		csENDCOM = "REQUEST_STOP"					// Ask for the end of communication
+      		csREQ = "QRY"								// Connection request
+      	END
+      
+      HSetREP(False)
+      
+      //
+      // Transfer files in local if a network disk is currently used
+      //
+      IF fDriveInfo(fExtractPath(fExeDir(),fDrive),fdDriveType) = fdRemote OR NetworkDirName(fExtractPath(fExeDir(),fDrive)) <> "" THEN
+      		
+      	// generates a local directory
+      	gsFilesDir is string = CompleteDir(SysDir(srLocalAppData)) + ProjectInfo(piConfiguration) + "\"
+      	
+      	// creates the directory
+      	fMakeDir(gsFilesDir)
+      	
+      	// Modifies the path of the data files
+      	HSubstDir("*", gsFilesDir)
+      END
+      
+      // Create the Contact file if necessary
+      HCreationIfNotFound(CONTACT)						
+      
+      // Open the presence socket
+      OpenPresenceSocket()
+      
+      // Manage the threads manually (each procedure is not a critical section)
+      ThreadMode(threadCriticalSection)
+     type : 196608
+   -
+     internal_properties : CAAAAAgAAABKtXZQVT6tyBc2O8Y+U4Qrb3itwYAR7D6lOwdbCYsOwwv40B3BmXfXwoIz6UG+99iTSAPLvxfr6ul+HLcRYvlt/smcKdS4aYbHv1xCl1LX3/QTRk+/jxPhYQupGEZxdGsw94UpEXtg6XqTuw==
+     code : |1-
+      // Close the presence socket
+      ClosePresenceSocket()
+     type : 196610
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Live Messaging
+     identifier : 0x4ac482f900143316
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Demo
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

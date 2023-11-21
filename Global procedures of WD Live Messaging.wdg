@@ -1,0 +1,82 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Global procedures of WD Live Messaging
+ major_version : 28
+ minor_version : 0
+ type : 7
+ description : ""
+ subtype : 0
+procedure_set :
+ identifier : 0x186e82dc00f9a22e
+ internal_properties : CAAAAAgAAABGLu41kG7fjQV3iS4F72qmnKaNh5694reolNKIW0iw
+ code_elements :
+  internal_properties : CAAAAAgAAAAPDah4GTwa1o5MoLC120fWQjRz6bC2vJumbj3ZKTVZ3Kd0S2vW+uCtTX9WT8Gf0+nvEpeBUEfCQrps1z/0F2XJgI8WzUKM7sHnp+ICyLTSwfDaw92z5qHCYQpAcuwl0dvNbtxkb+ErirUFegSlZC7s0wOPUv8kJmHzOl0ypIBXTNAgIDOdXjTjzlRxwlTa9ywhP4HgKGAsENGAp9AnGzMCEtyd4bBIhHOyjcAHX+z0pm5vDkPHEOV0Bdp+SCV/4Q+ijWRrWLu6H56WHIyIyw4uVwjr/jQEcDh2mkUylhsArOw3xzv96f9si3dZhU4YEk1rZ6OY8JWCr0UV/5c6Ap9hA/7U+OE1WXuRU8jq8/Cx908R8tLagunhyw/MkCtBkzbp3/+D6CbkK22VcRZzLNryariyeXDrGzXUP6MX6b+Ot4Z8/gEg9m2v0t7Nd9z8h9htbwBDHNMvd3DI8/5zhEsnWwAM
+  type_code : 31
+  p_codes : []
+  procedures :
+   -
+     name : ClosePresenceSocket
+     internal_properties : CAAAAAgAAACqZY5hvjhmaROOSD4IAGsiF0iuWOLyMF4ogQbrBJF5ZC+r8FlmGTQkxkW91SNBCTeE8mn6vqAbUSz8OXjFiGPt71ehdHn26rAOAWu0UA4kCqTiTCWvn5uJXEZdIsxqKYqklJl8kj1894pIirVDnzuoWaaPFDgT4OD6tEPIvbGJ7zQ/+pE4YI9h6zXDN3VqTq6LApP1KgdSyHqG7Qcrtu9vng==
+     procedure_id : 1760488385769284142
+     type_code : 15
+     code : |1-
+      PROCEDURE ClosePresenceSocket()
+      
+      	// Close the socket for checking the presence
+      	IF SocketExist(csPresenceSocketName) THEN
+      		SocketClose(csPresenceSocketName)		
+      	END
+      	
+      	// Close the socket used to make requests for connection
+      	IF SocketExist(csRequestedSocketName) THEN
+      		SocketClose(csRequestedSocketName)			
+      	END
+     type : 458752
+   -
+     name : OpenPresenceSocket
+     internal_properties : CAAAAAgAAACh6YEcdzRtXcLe/lfZJjJazmMVvVFrpOj9mDBRnNerflxLJYH0PiM2oTlTW8DHc2Wd33Iw+DcFG2VbSh/8U1k0jqfL2tIOHSljN5qLQImE2W5duj2DcmECHpgE5Y2tsIpABF7dIC7qrh12IiuS2JghBeEXsg/L0DbSlLSp2/W8jAarna8rOSx9cpWO4A0ads/R7zhnmRBT+U5aGI34Qp7J7zROxIRNfFt6WkDrdO4GEodKdxYZ4ZIUbR2HUzwd7upSEpdoydpMoObWTqx9Z18JyPZ1QvgoKomo6qplNlwd6NOWNHKF1SuDQ6s=
+     procedure_id : 1760488385769349678
+     type_code : 15
+     code : |1+
+      PROCEDURE OpenPresenceSocket()
+      
+      	// Socket listening for the demands of presence
+      	SocketCreate(csPresenceSocketName,cnPresenceSocketPort)
+      	IF ErrorOccurred THEN
+      		// Error while creating the socket
+      		Error(<§@3c5122582ca03cad0000§>,ErrorInfo())
+      		// This application cannot operate without this socket
+      		EndProgram()
+      	END
+      	
+      	// Socket listening for the demands of requests
+      	SocketCreate(csRequestedSocketName,cnRequestSocketPort)
+      	IF ErrorOccurred THEN
+      		// Error while creating the socket
+      		Error(<§@3c5122582ca03cad0001§>,ErrorInfo())
+      		// This application cannot operate without this socket
+      		EndProgram()
+      	END
+      
+      
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+resources :
+ string_res :
+  identifier : 0x3c5122582ca03cad
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Unable to create the main socket
+     index : 0
+   -
+     text :
+      en-GB : Unable to create the request socket
+     index : 1
+custom_note :
+ internal_properties : CAAAAAgAAABtB9HWVzrXO2+4NDRVK0vmzaNKrCKqH1DBX30lMmGZ

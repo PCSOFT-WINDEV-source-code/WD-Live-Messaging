@@ -1,0 +1,325 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Form
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : Contact Form
+ subtype : 0
+window :
+ name : WIN_Form
+ identifier : 0x286e82d604e58bc7
+ internal_properties : CAAAAAgAAABLZAmTteeYbiNMi/m8n3OZsCQhiTyTJZ7P0ss8siG2G0HZGQRg9HR7NrXRmDHxoX7xB/4JZwhYHkZfbNG+O1r0lysPMc3szm44YhAn2FZA3oTLjtV/sqOfB3E4wh4M6wnzseSAxsoaVNMpXwrBciLQicT38ui9pNkcF/JLSGa2hN8spx5JSo6UGpY4teZE5pXmUtYFCEtCiy/bo0596g3I1Vpb/MYMwNZNGz0WuOgQH9HbRfTRAytjeWnJW7Czl9N7dok+zYAHEFXNkCWqrkbb7BWUwBUgZEuWuA/oTQ230lb5act5Suwr5W9ix4g3BZBPt1N/t9HzHm7QVBlDctSMEJ8qv5PKIndOHHi7Z7FXV5IAIcWeeHDuKXBPrXhTj/dp1+PqbDvj7mS2F/QwuAdx/e14ObbPs/gD4Bv/7I4TSJ6vrCQKk8/+uwJPOz1oS5y4oYxWxu4aC7AbKgepY46CQMUAPMpI7jyG+Pn26UmlD2a4NLeJh/U+P+2YNZsC5+PFWvC978ibSImoHO93PevS5GRMhlzdnyJJoY82o86+yR9ytknMjzD03YoUpFYZYePrR+YIzep3ZktXxJZi3wWTnP5bL5gl2ZZytgfw3G3EM51VUkSy16Wc08aMKQ5K2pu/gaOQwe4FJ8oR+LgEsgms0ECWEFRfGjd+FcRe9C9A5jaeu3snNrHmM8+c9XunF9omW1p2p/k91H6YqcQCmLPZ8gbt82f7/9NITb51OXDoAUxm6aIsQWJd7x9Y2sRy942R5d9xk7EbbjTB2MVIo34btlSaSytDHLDLlCAqqEpLgqsfyrhM
+ properties :
+  width : 494
+  height : 194
+  widthClient : 492
+  heightClient : 162
+ controls :
+  -
+    name : Edit_Name_Contact
+    identifier : 0x286e82d604e68bd7
+    internal_properties : CAAAAAgAAABqwXLxnLRpXv51S40doJVvrkR6Dp1eoxsX8hh/0WvsBzkwelXBd1+We9GU1ymJ+Cky6RBN+ogIJJ70O4f9HqUDhONciGD/7XINs5dFGDsWw4O+f2fwKpDMGhIUM+F9+y+k7B4f3Wnce8mb51j0Gn6/7g6Qekn6C+vhnQkCWljvmAVVI1SdfuIXXJBFcMfqxR2NU5TXhyEkmIo4MYQnipRHKZQPsTL7kAnsUh52SKJD/W9JzYp0KUSh3t4W2nfk4NpHcHCXNXYUrBPBfPIdS3LwbWIIdvsERmDiH3ixNVc5f264yKn4hlmwTIOWEOe71ZMNGI7E+OvH7axfQXfPLNwO1yadb/zTg4u9U4yste3DbhK9L5WDfkv60bmtFZ7mAyDhwct5DFMHOGEe14dT+xnqgakvqW6GocNJf9VCL6+dv066l8aZM8d3lAWw6O1CUJGCOQ/Zr24OqQirgmVIcg17MVTJ9pLFbf3OD7r0lmrm06kD3VqKq3JdmsFPjB3c2uzpzTq8PPQNbNDUTrOl0ZOWQ8vQyvv3o9IKYt9kLnKZK2l0kwLLCCezBp6T53+eG9IbdpXUy95ECCkFkxGITKkTLAAaupFkz2KQrlc0AknEDozOCsbzlwl2Z79RCYaIWaDJUT4iou2kT4y8vsL6wrTWmOQjzl4QTOz2aQPbkeVrv2Cx9X5RsoBa8iefGNKRPfOj1E3wNod6svpqiIhvZw8MZ43oZ0ZOj/22Xj5t5K0CO6vsfVCZgUVu3FrxDid0zI30LL1u8KT8GNiLxQc8W2Z72GQBfxiiUI6fN2ltXufFlnbFS7F8xXKLX5dNRyDdqncsaE2mtxiQkP81lrc4XhuOyu4KF3Acm1hSyrJ2TEo2Wnsp75vPSff0TDEHD7SZTjCSeBeynUYsz68HujqW4/wDJf0Iv+W+L4/kS8Iuxi/9byX3DrXy7BbBSumOEM2SdBudM//PF5D0IjbUfqdqTXN9tn7m4LPFCrO5kq4eB4ffCtoKqjqy8nB7ylO2fUwWMP9WgcK+5lMFYi0Ly8OE1Rwv5WbJ4flN+67CKKRF14zOOlDp5yUIdRtnfmXlPoy6PKqJrO7bFCeoj+h+H6Ad5a/5K3fQC/rkAtYkDclJq6gOwAZ6U5wD9OjvPaJQVDV2X59dTH0oYmxWX2Aoz8lXxDNgK6Ral2GTSdXkPpO52tqw+xavegRc3B/CVsnZ1q9MCkXwd9qrCrRuGmGh+sFSVkrj2IdSY+1zOuNnGDOMJnTLaeDSwNOA/SO/x4t7H5nCD/AQYObvxrxpIUp+kBs2Kga7oZew66KjvbBZLHiTFP9GuR0pzY6Y45k1GjUNgHtKorLZcMn8v2+vgdqS5bNi3mTStj0XvqYhypqrYBX2TX0pbeX0Zsc63QNJkkff
+    properties :
+     x : 6
+     y : 6
+     width : 399
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Edit_Name_Contact1
+    identifier : 0x286e82d604e78bd7
+    internal_properties : CAAAAAgAAABXS9Nf5Nho/P6FcPf+ZB0wWjvwE2SWfMs9BhoWNXoYHp4Eeoyd3eaDKacs9I4B1L8sNKj9mxx7LGbEDlJf+Hd/EOSPv9c0+JTjN5/c4XgQk+EiS2OfxuHePGkeVICost+2nQHJvihKE8XcucEjeklU3xwJbbv3c/jKd9AGygPZH4WD9OKBfAiYhg949GBAkR7uI21WxA9lXTbHPIAUEyCMy19CIglKOPv47vmYSrweSStdX69qe9MZW+VZnUPGZalzs/F0D/j8JvjNKn8JWKS7oN0Crdzb+qeUtzZBwR9p06sQ8dlY69ng11QTBA2hdk7I8sYA4qWoV2OwSsw8OXHf55U3WxQpUhXrxTPGPjaNZ8TyVKrGmFoR9lXmYXAV8ojPHrLezGZMAr/30XGUqq268hEgG8HFMZZh9jHGRS8F3Of2d4/kSSlUU7pri5IRIoxg47hIdCSsFHncOz24RAbyUdVBd6UdxEeSey7lR5sn5MKdcrBW9pH6bTvfaNYMs/Ffxr9FH6FuEDcAU4/XFYvLvi/udh8St9wqvdL5hvAfoECGIqyuWNb/QoKjFkq+foh4HTiXqn0wqsLcW15TdGxGJbqreo6l8lg48VWSQxXql/WhcIAh80TWh3aIlk9OYAzT41x+Bx+6YQU9av9avBbagy2LhHIndvKkG/hPzfQ6cis0SSIW1xpADCCh7ueHnhO1wVdtCgK86hZt0Fkrl7NBaAm1itw4aUuk/eKQBHVmSBD2Zh9Fo1d4ps3LIcGC4oCftMbP7Dh8/KAwjQDK9y6QTawkHMLUkjjBNGmkNhWr3aHlbpgqE9Bp9QR3/owpiqAdbKARr4AMHD9WAELusO2vTy4xEOxU57oEBQwzQp6+8/TPWsoJ36UoLHYhfor9Rvul6F7BK0okJxtYuO2cB0S4wuUVjqUMTSs0LBCNNvtNTPoXB2yEFHKbxCbyAYmuhGguZ5SE2ZjI8AQ3NtyGW4EIYY6HDQ9pepE/GdDbJ1Ghbem0PdNmuE4/Gg722CJUXr6poZ1xpI1HjO+skyAeNZhq1Ej0lok13w4u4ehUQSSKK+G/ehrO65FlJEr/H9ySwK0kWldm6Lki/1w3bRU78U+eyH/dHj4MZqoUXL2qee6s/bfY1ttfxpIb5TuIYzlIsdzqVmarfsbIwyBBr/jXitFN5Jp7XiUnoZ/enwPoHqT6UnGVXU2qQoWsOLDFIWHCgKrF55/SIKxqjlH4Wkg0XCBaE3cd1CUTtqVxZf1hchPsi3p9VLFvewFXkDQnrsqXZCCVHMQ7FRg/OHe5ohU9zJVLyt55CiKvrXgUJie/B0cKMwfJzKpdcrb1kvqkCOAAQwZKTP6efHucFonz7oDGsDG4BGsNTsffNyT2P4SWNIItGsFCZ0bEQYrMnGOeriHy7aPx40+snjcXS9gVWipK
+    properties :
+     x : 6
+     y : 36
+     width : 399
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Edit_Name_Contact2
+    identifier : 0x286e82d604e88bd7
+    internal_properties : CAAAAAgAAABtBs4PzaBBN6nVPuLV9tM6RfT7v2e+Ty+oacr0OP4uY2nmDkno9IWMSPUDPUdV6H8SDrSdiAe5E34tDS5SVzAQyP2K5zkLpHdFq670V07yJrgVV5UJAnJXB6AEr0FQkDP3kmosu7183GrtsUc6fm9/YaXlw78rf35f1QKSSxmdGT1L5hjPUf09Y4uTQy1plpTJoKazHjC3H/XFRgQKG+FjLoaIDCMJtEurMrOKip0oGJu0Ku7JiPOGkopnnpiUksWBWidrPynoWbr9fmq4jE62rYuQmdTz2OnV/z4kwrDULAptrGetf8/P3+mNfL+LwdV4wXmU3OorGE5pv1EcOUKYUFrDKBJ3gL/jRK92Vz0ZhWnAAHOtWuSuvq6Bz+L+3VbckJbqUYAs7SyUM6Jb9iHY1r0z7zQjpCw7lRRh+xj0cFQR7Z2zArkTKtu2av2qFK6YsjjsIR3SdP65lMIelJpoXuShoZFWGtybFR2vERw0BrambhvYtl0Pj28ZcaVdSKsTC7OhTm7ljz0shK2lRPEw3Oj1X+g+t5S2DYGlj8lUp/g8tSfdCmpcZee1JMvr7Dx39abVG6BAVCEV6MJHlkzEoAggsY+Y4Xr7g5hfL7hVSih3J8wCR1gS88wB+dBdkdeip8gGOUQ16k1URQwUNRAFRA0yKRE5CP08VezKggRRyRS4KwZ/KFi/8g2FVloe2vgwxWMSFfylx/Yd5a2UAY2tV9PJzDtgE9O7+TzdJKH39PlyKX2UTdbrrfKQCaSa9kUJIdR3+TDuklV1qsKs8sJK2FQQNhBXL9ijXXU68XJOWIqtRLqkn+IxIqpE1f1vWZ4gUkGcSkoIhjqrIJM8yZuJa1Zj6cPtOubujaRwNbjCHiYDYVdIDFzFkv6evYRN+Oz951IB6I9im8k3DzIjvdKvgPAeNClkzA0HCOuG/dFmPqMfmkkjIoqIMPwB2qvHaAwHQC/EsQdd/SUC01G+2XdbIWbW1rGY/kaRcP9ZuAuj/3v+5khjOJhMeQ9V6mkxI9lhSYIC2zI7Ix3ReNE+oVC9b8dKKmpfl2CTV9JZ81oDQ6yJuvW3FOA6YQe3xdgtj+31c0oqh7h3xHOdjLnLd456sS4pSWcH8MbDzXApuTi9KukUS7B/EslWPkxhv7OdYqWtUPaUg3ysAhSAQ2Go84RbIvAhU+8c4zZRdIO1MfEdrB/GtX8rf5KiB+BTeun4xpSD17T+N+E/i4WVdmt2bZUyq5qpzxx4jUjk7N+sBlVc6k7FhhsGxamVvEEcmuKFvX7hpt2EC0HIwRkRr+Oe0BvatcE8FUQOcdBvh2fwg3J5x/8iFdyxxCo6DCL9zppFAqkaw2dCfyhxPjMUOeyuCnjgfbV5t/l1PWEhfH/KqKHUYyHPj/THnxYppW3XLh7qJnjp
+    properties :
+     x : 6
+     y : 66
+     width : 397
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Edit_IP_Address
+    identifier : 0x286e82d604e98bd7
+    internal_properties : CAAAAAgAAADCCk87nb5MTGQdG2FPL3UyajNq+tCPcepMoFdu4ybUfjkdL5C8uAZyLbbL0sYpvRrZONr4D8qjDYQpoisqxKkvWOp5qfgvdOHQsNBMBqzMb2K0sA5rB1GO3w8jxZVee41Vm5NTZWm7IVoWK9ArVS58t7NoYEhw/ek6vqWKyRPphkbDARHENpDdSc53DG8Fm5YHHWkpRASUgIdc42DYXquB30NIEi1Xhs0Aq/eQYEMuyR5yfmtcbPxI1e4LcHSGaoM1D/mmnkDNVy9Inbz5wGiabaA5QApoI8T7lQcjn8sWZFCJWa0Bi8E7zzXK42l2XP/umRuOcHkgalPZPf8h6kRi0vk8JjNMUZ4/azCZYKgPuYO+aRH3DAUIM8SPE4jzisdmmf29Zh8XuJGrbxkgbMk5igr2zLSQFpyMvXj04gfIifYEQNhn9fEsGExZRW3/mvISgVhconp1YyH07pdKymGYwUehdN3ETyHh6PDjBUBcm9VywabtlR1UbA6br1k/WWL1AZNG9smTZZBT3Rv16s/B78eVEBp7J1MfZlPrNr+R7zegSDNnYIujyH0Q3u1mrhS87xLmUkwPRE46RxVHtj8Jj2zQHz1c6di2Ql1v/v94H1I5JJkRtgyDwuVS88EG0rCXprJO2tL+8n68dn1IAwChXPqcCbfPonz8Yw4CqvpoQGKh7g87fXMgUDibLcMgbwXITI+n7viHEwFkvGGkDZasNR0MNtb6RhkySyRyhOOj33Ttrb/ZRXVTc/NSljrlZ/er4k4YT9lhff2i39xy1COKvEaZjfJUzl1nFRua+hJ4YYJY9tIhSgmlXybUZrn38jf/GTlKF8vNAi8vnVI2ems6dGSMT6XnERiiOzTKjK4OdT4J1Lg/5MepfORKRBHKaahHhNYbnoV7GNh6rHl1UE4WwxcldxV3rcinuAroJGHIKtdZxTkhsn4tLdzbfEILhoQG4UBlTch23m9QXgx9kIohuIqj/UNYfNF95LZrvLerQkUAN78mgZU8ahDHYL29oEVXRGp8E/MAAjc3S3ErBpVc8ZRPJhalEdXOEuneO3BNIeGaPP/MnA58Wx4qHvEKCT439dQSgjrbkS2YQICJXPaIiiH4geiwmem5x6eK0HBxtQwGI4MNYH5pmB+O6p+hyPBRxBduRjvfeMtDMUO9d+bR/Pe239i+tAiWq6y1gsG/KdhuoNp6HU/3qOPuUfyw2++PTz6qpcQeqUIkI0jX5xQisoODWXQNT6/XFQTFY35+qZugnkeMOc+0tcvbv6GGVyt08QvT9gYdrbAVUqgLZ0yPO56hUuWMif3sdZxZuEvYCwIlZRgUonsay/LkjxQdHpZalz4A/WcvCjQSzhdW2kRhvUrIt8vZvi2A02UFEjfyPBFZBYRlvmhXds6o9KI1sCsaHTE=
+    properties :
+     x : 6
+     y : 96
+     width : 288
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : OK
+    identifier : 0x286e82d604ea8bd7
+    internal_properties : CAAAAAgAAACklcrxMZSUu6smQTOU8MQeBuGlVkk1pILJM9jXfkO2IrwXMZmYy0ijZwtYoQSHq1fO5JUxwzdV/9Tf06AadpJiTX/nY1Zi2n7jPK9xL3vx9afDydwMWgCbDv5+M6ql9UG5pOgZtxROCNN49jsLsRLdILjHR9ZOZ++7x6w9DRsZZu52GeHefEwPIyJl7kvZFWcK1gsFxWzR7EdsDAKrG88crDRbayLOjNczCcAoBZ5TAtUDLXSlNFaUYIN0zBiMfZjQFeKHwEtDa9/Zs5bG9CA95eEoKVqmqC8650a0BVOvhNl7vAXJLlhwn7QsgnttQEOcN1LJDke5bK1i/NBi7Bvv3SwmNQmNUUzpOVJmfs/HcJ+anAmdJyE2tG3AB0n44LMKEOgnz4mvLvwkD4yuXJb9xDG0RmAT65q8DR22ZGP0c68Lfl9oxso/RrMdOR19k2Lfx1Gkz7auiOHcjuJsWV1k8ULQCXEAZ2nrHVUlfvcAPOedldEpXAAZOe5oXfvkqhDQu1ZwcaD2RXHw8qhOLmNWfyqr38cYPU4ByIKGBUVPvRGvb2GvoByHX4aXcYCbE5SvGeimu/sVb+tjQqoTuxH7dzanVPL4jNJwXanKNG8182pmCB5PDJV3L5EHPOGOEXkK5Xbm2tod0NsEcPRrJZhWKtQkY8DkHQ/noziZ4f88Fx6cHrAZF8HTeDjiSn8Emth7Jx1FPXZ2HZVITUtcPvFXgN/9W4OAtO2r44cDAA3CPT3d8Wrhftt/dI7TAUt/vIuqT/+fZXGqwh87YLb0t57ndIpJQW1cSY3ZxnJQOOh54Wp7pE/t5bAK1DueZgPen286caoD4WbXYeSj0sqgi/NT/mKBbcdOtAskSBQXF3AaUggBcpPEh65v9GY8NjeQ
+    properties :
+     x : 411
+     y : 6
+     width : 75
+     height : 23
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         // Retrieve the content of the file
+         ScreenToFile(WIN_Form,CONTACT)
+         
+         // It is either an IP address or a DNS name
+         IF Edit_IP_Address~="" AND Edit_DNS_Address~="" THEN
+         	Info(<§$0000§>)
+         	ReturnToCapture(Edit_IP_Address)
+         END
+         
+         // Check whether an IP address is specified
+         IF Edit_DNS_Address~="" AND (Edit_IP_Address~="" OR Position(Edit_IP_Address,".")<1) THEN
+         	Info(<§$0002§>)
+         	ReturnToCapture(Edit_IP_Address)
+         END
+         
+         // Check whether a contact name is specified
+         IF Edit_Name_Contact~="" THEN
+         	Info(<§$0003§>)
+         	ReturnToCapture(Edit_Name_Contact)
+         END
+         
+         // Modify or create a contact?
+         IF gnContactID = 0 THEN
+         	// Mode for creating a contact
+         	HAdd(CONTACT)
+         	IF ErrorOccurred THEN
+         		// Error while adding the contact
+         		Error(<§$0004§>,HErrorInfo())
+         		// Return to the form
+         		RETURN
+         	END
+         ELSE
+         	// Mode for modifying a contact
+         	HModify(CONTACT)
+         	IF ErrorOccurred THEN		
+         		// Error while adding the contact
+         		Error(<§$0005§>,HErrorInfo())		
+         		// Return to the form
+         		RETURN
+         	END
+         END
+         
+         // Confirmation message
+         Info(<§$0006§>)
+         
+         // Close the window
+         Close("", True)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Cancel1
+    identifier : 0x286e82d604eb8bd7
+    internal_properties : CAAAAAgAAAB86p7+TksFZ/no6kJOP/PyR2K1jHWNLAQH6ehY2hGwVjVy0aa2eChMfPWfPj2P7VXPKg/ISCI3I0x6CvHmZotyAhUCLtw4wiGhNpR5m+vHnuig3P5Rg/NvBYaH5gc0EtStMzUKj8gBV70z4OpcBedsa2h11NFjDltETyQdcr9HbubiS6WXrSdN3LRY22SDyN84zXt4RL9Dd7/YapeAEDJwu3t3LdU4aWHJu+3HxdX8ju4mzEktS0J6cubC/Pz5cy0N0MEZkixeAUbxTk/zQ5Uz1T5eAP9OPFee4LJCmubUDCIzS39GKxFKV3Oc6F2RBgbsepHS3xZpm2qLRsIu8IrR/G84k3G0ukR5tf/Lz7eeM8JfzX5++8FWitRl+jqYrDNFsGWtvverROTgN2RZ+0uhG2wE/VHUe2DeKJefS48zfRg27qTLkB8qiYn6jyatzi4qh7bRS29FTWD3uM6Gv6p8IVZLG0VQ7b1nE3DPdbYnRPHqdl59na6IHl3/Qn+4SPNSeYD6yVbloFk/0c0hMcnvnisQbc77+Gh/aO98YX83oXIIVbnq1L2L2Zx4KIHKqKujw88ly1lcDslsiz6i2wXjg9Pf7GsgiJ0uquhoqCmJME0ejmbo4G1N69KTVWxRjMRpcbFoak9w87XD3feF5IXNJL/inLXagvPO7vwkOEbs3KHXw92gBVia1uLejgJ9Wm2oM7/1umg0doCsi6e1t/QUeRyZhMNPmaRx/umooPT8Ut06Ao7PAxyCJ1e+3pGl00h5a7E+6l1qsGoRIPdqEXhQO3k0k7o9VaVL9r06FI8EENG4NINgdj7IxWAxz9X4uOzD5qwYKDM8UOX6+e07R13AY8yJC8nsPVM2/qlQPp9XQQnWJKb/CY1hS/G9xhXgSUBpVW6ho/g=
+    properties :
+     x : 411
+     y : 35
+     width : 75
+     height : 23
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1+
+         // Close the contact window
+         Close("", False)
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : Edit_DNS_Address
+    identifier : 0x286e82d604ec8bd7
+    internal_properties : CAAAAAgAAADC+VrJZBEAoRHOWNBqxXDeAeOv973dWNzkZOlvcCi8243glq9A6hDwcX96Y8L3yrr9Nlnm9zWtg9FDsE5+lSd3x4pf9ShOoO59FPTNkEgB8cGuOteGXsjJbIP/fV2Oq64kEjDnzAbkmtaLIK2kXtHW3Vt4PdPnBBLxmB4buBp0Cx7lj+MQrmFLDT1rNexDUlE03AlvmrnSThmqvAuwQlluczBc9vz1CqDeWWIE694fPq0nDeP+Az4PdzO3TMn7o/v86+M9vDU3tad6PZAo/JbuL+R0AmZBGnF9o5JPlQDoyJOGYQh8PWo5govMwi4xfGQlPffqTdg3LvhOOmb+br9SU43pXVqKWikJfM97/aVF0p+3irGgMhZR0i6KadwiRprIE29/hHdXURBms9izyGeRMORGCNXGaUtCVvzG3MpEK0Fe3JljyqRW01X/uUANUmVdLk0BXH7eJSPo7VySsuse7PdXsJzkK8JFJ1asWf83Ib+ZI/B8bW/0Pz9uMSIcddVl+v3FtaQzxRsuTiHzf2NVojSgBMypDOj+bQUgJquJE8ySJhEdJuKrmuYQSSBBKal8D8E7pjwDpuO5yMAK1DMkWHR+PHjM3piSJxJKnFX/sSQOy0LPXY74BtntxQDpr5za6fdT0FcScCaF5qwc1XzQgH3Kq2dSAsxGkUGrVWSau+Kp962eeJqTrTRMA4EraF+Ae+0yO0fkMLS/4JuBrpVV3NZ7rgQyMenwJ+SlfDDMzbfxatJaPgcqJdtt0uD3T7Lq/0A+m+RccB4mrWLtHbHR+CQ7bc5g6lmBsoXDbD1d0yRnzcepsWLp2xRBgtnJn1gvcjFieWhccinTo8DhTqS47o3bogwrxoQbD0edqkXPOcOKMiwdSEg/TZKrSd42D5evpGtIwQnkOjMG0sMjPr91xOWuffwnN0RoiVzQqVOwhFo+8fM3cNx++llmR//unLMdhDA+CpOwctDvpVlmQReRNuZepggh2Br+egGmuXrgQloOQYYF/5GwmE5kwvtGJR3XBUeXTiNIhX+D93GZA5xe8oBuF8M0xVJOeoehybSE6m73o5hL5xZi0kw8qCc9rD4JfnD8SI7Ji1nbTUOxxEIuFiTKQPM4WTeJqCZUwKSVqQRhhG76VDPC6/2qzaFJyj67JfHQJkTucmcpdm+t5saT8HrY5tJA7B9th1IVTdPM7PSvd08Dm73AdeNEQUu96DSprbp881SafGrTAgWI4QS5kPk3+CQujJeyqYqZixC6ItWoAnOntPgvDO8S0mHmSmJ4XoN0dFm5pD06Eb2odL91R1OpW6J3bkvOr0N9u0b3GCo+2tEbcDxWS/a+V7E5FTpF/Mkw/XAvT3TwZx2kNzeQkNhaM3nylnTvWHtecw2h1WXSru0A9UsRqi83
+    properties :
+     x : 6
+     y : 126
+     width : 397
+     height : 24
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : Static1
+    identifier : 0x286e82d604ed8bd7
+    internal_properties : CAAAAAgAAAD+DB6fVP4R1m7a/fSERe6WiXXaEYrMAUR86WPO5gcVUCAVQ5d8jVeGYkuh1pQH1AWL5Vs8+CB+Mg3CRbBYpuOoritUPRyS9qdHppcXDRn7rH673bmgbINAqzbiltXDTFXY+kUSQvn8ep+PrZ8K3HiEc0nX2DZG+Ebd1obXLiokDnL9MdX6IMUb8Y8HlQIbPZhfqF2fGMlsWTMDf3jat5SlHNT1yqj1d8VjKR6x1f3PCw0Zd0SOVMBP/Hb/WR43rvg/GlLrOJGDV9i6f1Szp88xwwLIcG7iGRE0L6rnNO2cfAKc37wEvfrqLtYztt5R39YGsvkdVfK6l4cWMADC2lv81Kq/DMqAKwPHPwKHuPE/ZMMb1I7B3zK8GWFupg4z2gK/GwzwlibMPm4so/0kfmt2fzs2JHhBPA9uOHt4sdF48kwnQLm/bnPj7Uhz2I3cJDpE4O9z6OHgOJwPyjq9VTiCkKlwDb2vkaHmNTgwZaD8/InSesjO/TwdYdc0E1VC
+    properties :
+     x : 300
+     y : 102
+     width : 103
+     height : 14
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes :
+      -
+        code : |1-
+         
+        type : 18
+ menu :
+  name : _Menu
+  identifier : 0x28c4eb86389dd573
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAhRE/lXye53iBehqcoJbZrDKsaXwyXwTmdaApcXqNiNCjFXZBgsi7w148k/Mqn56fLiIi0jqyQVEKQKC17KuGftViEtIzBwUaBScWzrQMZortsDwNXuV7F9WO8weSTEiE=
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAAD6/c0tBl5Fzb2NpSCbxdnsVST5pc+rMXi+MT1lx+K4u+jvGiXm+lK52DkW3oh7HEervP0I3alSdNmFS6fAcz+9uCaFfg==
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      PROCEDURE WIN_Form(gnContactID=0)
+      
+      // Creation or modification
+      IF gnContactID<>0 THEN
+      	// Modify a contact
+      	HReadSeekFirst(CONTACT,CONTACTID,gnContactID)
+      	IF HFound(CONTACT) THEN
+      		// Implement the record
+      		FileToScreen(WIN_Form,CONTACT)
+      	END
+      ELSE
+      	// Create a new contact
+      	HReset()				// Clear the variables corresponding to the record	
+      	Reset()				// Clear the controls
+      END
+      
+      MyWindow..ReturnedValue = False
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Fenêtre_Fiche
+resources :
+ string_res :
+  identifier : 0x3c02452a66048725
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : You must specify an IP address or a DNS/Network address for the contact
+     index : 0
+   -
+     text :
+      en-GB : You muse specify EITHER an IP address OR a DNS/Network address for the contact
+     index : 1
+   -
+     text :
+      en-GB : Enter an IP address in XXX.XXX.XXX.XXX format
+     index : 2
+   -
+     text :
+      en-GB : A contact name must be specified
+     index : 3
+   -
+     text :
+      en-GB : Unable to add the form of the contact
+     index : 4
+   -
+     text :
+      en-GB : Unable to modify the form of the contact
+     index : 5
+   -
+     text :
+      en-GB : Contact form saved
+     index : 6
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
